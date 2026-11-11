@@ -2,5 +2,6 @@
   <Project Path="01-tabuada/01-tabuada.csproj" />
   <Project Path="02-fibonacci/02-fibonacci.csproj" />
   <Project Path="03-contador/03-contador.csproj" />
+  <Project Path="04-numerosPrimos/04-numerosPrimos.csproj" Id="3ea32012-fbfc-4fda-82b4-c61dfb78aaf3" />
   <Project Path="lacosRepeticoes/lacosRepeticoes.csproj" />
 </Solution>
