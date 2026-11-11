@@ -3,5 +3,6 @@
   <Project Path="02-fibonacci/02-fibonacci.csproj" />
   <Project Path="03-contador/03-contador.csproj" />
   <Project Path="04-numerosPrimos/04-numerosPrimos.csproj" Id="3ea32012-fbfc-4fda-82b4-c61dfb78aaf3" />
+  <Project Path="05-fatorial/05-fatorial.csproj" Id="2e9bb4a9-025e-425f-89b4-fc8a8c07596b" />
   <Project Path="lacosRepeticoes/lacosRepeticoes.csproj" />
 </Solution>
