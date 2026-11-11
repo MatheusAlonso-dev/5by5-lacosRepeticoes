@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="01-tabuada/01-tabuada.csproj" />
   <Project Path="02-fibonacci/02-fibonacci.csproj" />
+  <Project Path="03-contador/03-contador.csproj" />
   <Project Path="lacosRepeticoes/lacosRepeticoes.csproj" />
 </Solution>
