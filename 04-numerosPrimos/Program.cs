@@ -1,10 +1,11 @@
-﻿
-int num;
+﻿int num;
 int contador = 0;
+
+Console.WriteLine("\tPRIMOS\n\n");
 
 Console.WriteLine("digite um numero: ");
 num = int.Parse(Console.ReadLine());
-Console.WriteLine("\n\n");
+Console.WriteLine("\n");
 
 for (int i = 1; i <= num; i++)
 {
@@ -23,5 +24,4 @@ for (int i = 1; i <= num; i++)
     {
         Console.WriteLine(i);
     }
-
 }

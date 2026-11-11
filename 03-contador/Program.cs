@@ -1,5 +1,7 @@
 ﻿int cont;
 
+Console.WriteLine("\tCONTADOR\n\n");
+
 Console.WriteLine("digite um numero: ");
 cont = int.Parse(Console.ReadLine());
 Console.WriteLine("\n");
